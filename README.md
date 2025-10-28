@@ -4,9 +4,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/sherif-rizk-ismail-abdel-sattar](https://www.novypro.com/profile_projects/sherif-rizk-ismail-abdel-sattar)
 
-- 💬 Ask me about **Data Analytics SQL, Python, Power Bi, Tableau, Excel**
+- 💬 Ask me about **Data Analytics SQL, Python, Power BI, Tableau, Excel**
 
-- 📫 How to reach me **sr1518@fayoum.edu.eg**
+- 📫 How to reach me **sr1518@fayoum.edu.eg** or **sherif.rizk12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
